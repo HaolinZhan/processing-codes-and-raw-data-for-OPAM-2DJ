@@ -1,4 +1,3 @@
-%% obtained from somewhere and not for commercial use
 function [NMRsp_dp,phc0,phc1]=ACME(NMRsp,phcf)
 % Chen Li's automatic spectrum phasing function
 %
