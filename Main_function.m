@@ -1,5 +1,6 @@
-%% Matlab codes used for processing all orthogonal-pattern 2DJ spectra to obtain pure absorptive peaks 
-%% Authered by Haolin Zhan, Yuqing Huang, Xiamen univerisity
+%% Matlab codes used for processing all orthogonal-pattern 2DJ spectra to obtain pure absorptive peaks
+%% These codes are developed from data post-processing of RASA2DJ, and also suitable to RASA2DJ (Y. Q. Huang, Anal. Chem., vol. 89, no. 23, pp. 12646-12651, Dec. 2017).
+%% Authered by Haolin Zhan, Yuqing Huang, Xiamen University.
 clc;
 clear all;
 close all;
